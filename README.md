@@ -20,6 +20,7 @@ Right now the game has:
 - ✅ **Food** (red block) that appears in a random cell
 - ✅ **Eating**: when the snake reaches the food, new food appears somewhere else
 - ✅ A **150 ms movement tick**, so the snake moves at a steady speed instead of once per frame
+<img width="1012" height="580" alt="image" src="https://github.com/user-attachments/assets/4dd2b17c-967d-4740-a444-3afa81c89f99" />
 
 ---
 
